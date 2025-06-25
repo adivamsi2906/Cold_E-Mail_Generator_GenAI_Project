@@ -42,9 +42,9 @@ Verizon is actively seeking a Java Developer (job ID: R-1057027, URL: https://my
 
 Vamsi, an individual software developer, is highly interested in this role. He has several years of experience developing robust Java applications, including a significant project where he built a scalable microservices architecture using Spring Boot on AWS, and another where he optimized database interactions for a high-traffic e-commerce platform. He has these projects documented and available on his personal portfolio website.
 
-Mohan's Role (User of the Tool):
+Vamsi's Role (User of the Tool):
 
-In this revised scenario, Vamsi is the user of the "JobSeeker Cold Email Generator." He provides the Verizon Java Developer job listing URL to the tool.
+Vamsi is the user of the "JobSeeker Cold Email Generator." He provides the Verizon Java Developer job listing URL to the tool.
 
 How the Tool Helps Vamsi:
 
